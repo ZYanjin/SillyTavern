@@ -1,3 +1,6 @@
-  whitelistMode: false
-  basicAuthMode: false
-  listen: true
+whitelistMode: false
+basicAuthMode: true
+basicAuthUser:
+  username: admin
+  password: zyj6666st
+listen: true
